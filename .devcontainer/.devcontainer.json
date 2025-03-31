@@ -1,5 +1,5 @@
 {
-  "name": "codespace cigolini",
+  "name": "codespace manzato",
   "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:1": {}
