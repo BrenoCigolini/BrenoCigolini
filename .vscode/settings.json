@@ -2,5 +2,9 @@
   "files.exclude": {
     "/.devcontainer": true,
     "/.vscode": true
+  },
+  "explorer.exclude": {
+    "/.devcontainer": true,
+    "/.vscode": true
   }
 }
